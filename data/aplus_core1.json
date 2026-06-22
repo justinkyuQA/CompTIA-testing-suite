@@ -1,0 +1,12 @@
+[
+{
+"question":"Which port is HTTPS?",
+"choices":["21","22","443","3389"],
+"answer":2
+},
+{
+"question":"What protocol translates names into IP addresses?",
+"choices":["FTP","DNS","SMTP","DHCP"],
+"answer":1
+}
+]

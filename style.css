@@ -1,0 +1,40 @@
+body{
+background:#000;
+color:#00ff00;
+font-family:monospace;
+margin:0;
+padding:20px;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+}
+
+h1{
+text-align:center;
+border-bottom:1px solid #00ff00;
+padding-bottom:10px;
+}
+
+button{
+background:#111;
+color:#00ff00;
+border:1px solid #00ff00;
+padding:12px;
+margin:5px;
+width:100%;
+font-size:16px;
+cursor:pointer;
+}
+
+button:hover{
+background:#00ff00;
+color:#000;
+}
+
+#quiz{
+margin-top:20px;
+padding:15px;
+border:1px solid #00ff00;
+}
