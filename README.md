@@ -1,4 +1,4 @@
-# Certification Testing Suite (CTS)
+# Certification Testing Suite (CATS)
 
 A mobile-first, offline-first certification practice testing platform.
 
