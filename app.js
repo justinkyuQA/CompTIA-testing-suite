@@ -120,7 +120,8 @@ score++;
 missed.push({
 question:q.question,
 correct:q.choices[q.answer],
-chosen:q.choices[index]
+chosen:q.choices[index],
+explanation:q.explanation || "No explanation available."
 });
 }
 
@@ -154,6 +155,7 @@ html+=`
 <b>${item.question}</b>
 <p class="wrong">Your answer: ${item.chosen}</p>
 <p class="correct">Correct answer: ${item.correct}</p>
+<p class="explanation"><b>Explanation:</b> ${item.explanation}</p>
 </div>
 `;
 });
