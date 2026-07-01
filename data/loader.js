@@ -32,6 +32,8 @@ async function loadAllQuestions(){
 
         loadQuestionBank("corea","aplus_core1.json"),
 
+        loadQuestionBank("coreb","aplus_core2.json"),
+
         loadQuestionBank("network","networkplus.json"),
 
         loadQuestionBank("security","securityplus.json"),
@@ -39,5 +41,7 @@ async function loadAllQuestions(){
         loadQuestionBank("linux","linuxplus.json")
 
     ]);
+
+    console.log("All question banks loaded.");
 
 }
