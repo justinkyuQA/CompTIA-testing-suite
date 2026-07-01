@@ -4,48 +4,58 @@
     "choices": [
       "DNS",
       "DHCP",
-      "SSH",
+      "FTP",
+      "SSH"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol automatically assigns IP addresses?",
+    "choices": [
+      "DHCP",
+      "DNS",
+      "SMTP",
       "SNMP"
     ],
     "answer": 0
   },
   {
-    "question": "Which protocol automatically assigns IP configuration to clients?",
-    "choices": [
-      "DHCP",
-      "FTP",
-      "NTP",
-      "SMTP"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which port is used by HTTPS by default?",
+    "question": "Which default port is used by HTTPS?",
     "choices": [
       "443",
       "80",
       "22",
-      "25"
+      "21"
     ],
     "answer": 0
   },
   {
-    "question": "Which OSI layer handles routing between networks?",
+    "question": "Which default port is used by SSH?",
     "choices": [
-      "Layer 3",
-      "Layer 1",
-      "Layer 5",
-      "Layer 7"
+      "22",
+      "23",
+      "25",
+      "110"
     ],
     "answer": 0
   },
   {
-    "question": "Which address range is APIPA?",
+    "question": "Which default port is used by DNS?",
     "choices": [
-      "169.254.0.0/16",
-      "192.168.0.0/16",
-      "10.0.0.0/8",
-      "172.16.0.0/12"
+      "53",
+      "67",
+      "443",
+      "161"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which OSI layer is responsible for routing?",
+    "choices": [
+      "Network",
+      "Transport",
+      "Data Link",
+      "Application"
     ],
     "answer": 0
   },
@@ -55,48 +65,326 @@
       "Router",
       "Hub",
       "Repeater",
-      "Patch panel"
+      "Bridge"
     ],
     "answer": 0
   },
   {
-    "question": "Which command commonly tests basic IP reachability?",
+    "question": "Which command tests network connectivity?",
     "choices": [
       "ping",
+      "mkdir",
       "chmod",
-      "grep",
-      "format"
+      "grep"
     ],
     "answer": 0
   },
   {
-    "question": "Which protocol is used for secure remote CLI administration?",
+    "question": "Which command traces the path packets take?",
+    "choices": [
+      "traceroute",
+      "ping",
+      "ipconfig",
+      "hostname"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the APIPA address range?",
+    "choices": [
+      "169.254.0.0/16",
+      "10.0.0.0/8",
+      "172.16.0.0/12",
+      "192.168.0.0/16"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which cable type is commonly used for Gigabit Ethernet?",
+    "choices": [
+      "Cat5e",
+      "RJ11",
+      "Coax RG59",
+      "Serial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which connector is used on Ethernet cables?",
+    "choices": [
+      "RJ45",
+      "RJ11",
+      "BNC",
+      "USB-C"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol securely manages network devices remotely?",
     "choices": [
       "SSH",
       "Telnet",
+      "FTP",
+      "HTTP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol synchronizes system clocks?",
+    "choices": [
+      "NTP",
+      "DNS",
+      "SMTP",
+      "POP3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol sends email?",
+    "choices": [
+      "SMTP",
+      "IMAP",
+      "POP3",
+      "SNMP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol retrieves email while keeping it on the server?",
+    "choices": [
+      "IMAP",
+      "SMTP",
+      "FTP",
+      "SSH"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol is used for network monitoring?",
+    "choices": [
+      "SNMP",
+      "SMTP",
+      "SMB",
+      "SFTP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does NAT primarily do?",
+    "choices": [
+      "Translates private IPs to public IPs",
+      "Encrypts traffic",
+      "Assigns MAC addresses",
+      "Compresses packets"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which address is a loopback address?",
+    "choices": [
+      "127.0.0.1",
+      "169.254.1.1",
+      "255.255.255.255",
+      "0.0.0.0"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does CIDR /24 represent?",
+    "choices": [
+      "255.255.255.0",
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.128"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which wireless encryption is currently recommended?",
+    "choices": [
+      "WPA3",
+      "WEP",
+      "Open",
+      "WPA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which topology connects every device to a central switch?",
+    "choices": [
+      "Star",
+      "Ring",
+      "Bus",
+      "Mesh"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which IPv6 address type replaces broadcast?",
+    "choices": [
+      "Multicast",
+      "Anycast",
+      "Loopback",
+      "Link-local"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which layer of the TCP/IP model handles web traffic?",
+    "choices": [
+      "Application",
+      "Internet",
+      "Link",
+      "Physical"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol securely transfers files over SSH?",
+    "choices": [
+      "SFTP",
+      "FTP",
+      "TFTP",
+      "SMB"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which device regenerates weak network signals?",
+    "choices": [
+      "Repeater",
+      "Router",
+      "Firewall",
+      "Gateway"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the purpose of a VLAN?",
+    "choices": [
+      "Logically separate networks",
+      "Increase CPU speed",
+      "Encrypt Wi-Fi",
+      "Replace DHCP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol is connection-oriented?",
+    "choices": [
+      "TCP",
+      "UDP",
+      "ICMP",
+      "ARP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol is connectionless?",
+    "choices": [
+      "UDP",
+      "TCP",
+      "HTTPS",
+      "SSH"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which command displays local IP configuration on Linux?",
+    "choices": [
+      "ip addr",
+      "ping",
+      "netstat",
+      "grep"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A user can access devices on the local LAN but cannot browse websites. Which service should you investigate first?",
+    "choices": [
+      "DNS",
+      "NTP",
+      "SMTP",
+      "SNMP"
+    ],
+    "answer": 0,
+    "explanation": "Local communication works, but name resolution is likely failing."
+  },
+  {
+    "question": "Which device forwards packets between different IP networks?",
+    "choices": [
+      "Router",
+      "Switch",
+      "Hub",
+      "Repeater"
+    ],
+    "answer": 0,
+    "explanation": "Routers operate at Layer 3 and forward traffic between networks."
+  },
+  {
+    "question": "A workstation receives a 169.254.x.x address. What is the most likely cause?",
+    "choices": [
+      "DHCP server unavailable",
+      "DNS server unavailable",
+      "Gateway offline",
+      "Switch loop"
+    ],
+    "answer": 0,
+    "explanation": "APIPA addresses are assigned when a DHCP lease cannot be obtained."
+  },
+  {
+    "question": "Which protocol securely transfers web traffic?",
+    "choices": [
+      "HTTPS",
       "HTTP",
-      "TFTP"
+      "FTP",
+      "Telnet"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": "HTTPS encrypts HTTP traffic using TLS."
   },
   {
-    "question": "What does NAT commonly allow?",
+    "question": "Which command displays the local routing table on Linux?",
     "choices": [
-      "Private IPs to share a public IP",
-      "Files to be encrypted",
-      "RAM to be expanded",
-      "DNS zones to replicate"
+      "ip route",
+      "ping",
+      "grep",
+      "hostname"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": "The ip route command displays the system routing table."
   },
   {
-    "question": "Which cable category is commonly used for Gigabit Ethernet?",
+    "question": "What is the purpose of a default gateway?",
     "choices": [
-      "Cat 5e or better",
-      "Coax only",
-      "Serial null modem",
-      "RJ-11 telephone cable"
+      "Route traffic to remote networks",
+      "Assign IP addresses",
+      "Resolve hostnames",
+      "Filter spam"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": "The default gateway forwards packets destined for other networks."
+  },
+  {
+    "question": "Which protocol automatically synchronizes system clocks?",
+    "choices": [
+      "NTP",
+      "DNS",
+      "SSH",
+      "SMTP"
+    ],
+    "answer": 0,
+    "explanation": "NTP keeps systems synchronized to a common time source."
+  },
+  {
+    "question": "Which wireless encryption standard is currently recommended for new deployments?",
+    "choices": [
+      "WPA3",
+      "WEP",
+      "WPA",
+      "Open"
+    ],
+    "answer": 0,
+    "explanation": "WPA3 provides the strongest security among the listed choices."
   }
 ]
