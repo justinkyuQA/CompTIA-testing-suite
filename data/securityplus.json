@@ -98,5 +98,115 @@
       "RAID failure"
     ],
     "answer": 0
+  },
+  {
+    "question": "A user receives an email claiming their Microsoft 365 password will expire today and is instructed to click a link to keep the account active. What type of attack is this?",
+    "choices": [
+      "Phishing",
+      "Tailgating",
+      "Shoulder surfing",
+      "Whaling"
+    ],
+    "answer": 0,
+    "explanation": "Phishing attempts to trick users into revealing credentials through fraudulent emails or websites."
+  },
+  {
+    "question": "Which security principle ensures users receive only the permissions required to perform their job duties?",
+    "choices": [
+      "Least privilege",
+      "Separation of duties",
+      "Implicit deny",
+      "Need to share"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege limits user permissions to only what is necessary, reducing the attack surface."
+  },
+  {
+    "question": "Which control is considered preventive?",
+    "choices": [
+      "Firewall",
+      "Incident report",
+      "Audit log",
+      "Forensic image"
+    ],
+    "answer": 0,
+    "explanation": "A firewall prevents unauthorized traffic before an attack succeeds."
+  },
+  {
+    "question": "What is the primary purpose of multifactor authentication (MFA)?",
+    "choices": [
+      "Increase account security",
+      "Improve network speed",
+      "Reduce storage usage",
+      "Compress passwords"
+    ],
+    "answer": 0,
+    "explanation": "MFA requires multiple independent authentication factors, making unauthorized access more difficult."
+  },
+  {
+    "question": "A malicious program encrypts files and demands payment to restore access. What is it?",
+    "choices": [
+      "Ransomware",
+      "Spyware",
+      "Adware",
+      "Rootkit"
+    ],
+    "answer": 0,
+    "explanation": "Ransomware encrypts data and attempts to extort payment from the victim."
+  },
+  {
+    "question": "Which cryptographic algorithm is symmetric?",
+    "choices": [
+      "AES",
+      "RSA",
+      "ECC",
+      "DSA"
+    ],
+    "answer": 0,
+    "explanation": "AES uses the same key for encryption and decryption."
+  },
+  {
+    "question": "Which protocol provides secure remote administration?",
+    "choices": [
+      "SSH",
+      "Telnet",
+      "FTP",
+      "HTTP"
+    ],
+    "answer": 0,
+    "explanation": "SSH encrypts remote administrative sessions."
+  },
+  {
+    "question": "What is the first phase of the incident response process?",
+    "choices": [
+      "Preparation",
+      "Recovery",
+      "Containment",
+      "Lessons learned"
+    ],
+    "answer": 0,
+    "explanation": "Preparation establishes policies, procedures, and tools before incidents occur."
+  },
+  {
+    "question": "Which attack sends traffic from many compromised systems simultaneously?",
+    "choices": [
+      "Distributed Denial-of-Service",
+      "SQL Injection",
+      "Cross-site scripting",
+      "Privilege escalation"
+    ],
+    "answer": 0,
+    "explanation": "A DDoS attack overwhelms a target using many systems."
+  },
+  {
+    "question": "Hashing is primarily used to provide which security property?",
+    "choices": [
+      "Integrity",
+      "Confidentiality",
+      "Availability",
+      "Nonrepudiation"
+    ],
+    "answer": 0,
+    "explanation": "Hashes help detect whether data has been modified."
   }
 ]
