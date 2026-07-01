@@ -1,0 +1,112 @@
+[
+  {
+    "question":"A user cannot sign in because they forgot their password. What should you do first?",
+    "choices":[
+      "Verify the user's identity",
+      "Delete the account",
+      "Reinstall Windows",
+      "Replace the hard drive"
+    ],
+    "answer":0,
+    "explanation":"Always verify a user's identity before resetting account credentials."
+  },
+  {
+    "question":"Which Windows utility is commonly used to terminate an unresponsive application?",
+    "choices":[
+      "Task Manager",
+      "Disk Cleanup",
+      "Event Viewer",
+      "Device Manager"
+    ],
+    "answer":0,
+    "explanation":"Task Manager allows you to end nonresponsive processes."
+  },
+  {
+    "question":"Which file system supports permissions, compression, and encryption in Windows?",
+    "choices":[
+      "NTFS",
+      "FAT32",
+      "exFAT",
+      "ISO9660"
+    ],
+    "answer":0,
+    "explanation":"NTFS supports advanced security and storage features."
+  },
+  {
+    "question":"A technician should always obtain what before making major system changes?",
+    "choices":[
+      "A backup",
+      "Administrator wallpaper",
+      "A new monitor",
+      "A static IP"
+    ],
+    "answer":0,
+    "explanation":"Creating a backup reduces the risk of permanent data loss."
+  },
+  {
+    "question":"Which Windows feature automatically downloads security updates?",
+    "choices":[
+      "Windows Update",
+      "Task Scheduler",
+      "Registry Editor",
+      "Performance Monitor"
+    ],
+    "answer":0,
+    "explanation":"Windows Update installs operating system and security patches."
+  },
+  {
+    "question":"Which command repairs corrupted Windows system files?",
+    "choices":[
+      "sfc /scannow",
+      "ping",
+      "ipconfig",
+      "format"
+    ],
+    "answer":0,
+    "explanation":"System File Checker verifies and repairs protected system files."
+  },
+  {
+    "question":"Which tool shows Windows application and system logs?",
+    "choices":[
+      "Event Viewer",
+      "Disk Management",
+      "Task Scheduler",
+      "Services"
+    ],
+    "answer":0,
+    "explanation":"Event Viewer records application, security, and system events."
+  },
+  {
+    "question":"Which malware attempts to remain hidden while providing administrator-level access?",
+    "choices":[
+      "Rootkit",
+      "Adware",
+      "Spyware",
+      "Worm"
+    ],
+    "answer":0,
+    "explanation":"Rootkits hide themselves while providing privileged access."
+  },
+  {
+    "question":"Which command displays a computer's IP configuration in Windows?",
+    "choices":[
+      "ipconfig",
+      "ping",
+      "net use",
+      "hostname"
+    ],
+    "answer":0,
+    "explanation":"ipconfig displays the current TCP/IP configuration."
+  },
+  {
+    "question":"What should a technician do before disposing of a hard drive containing sensitive data?",
+    "choices":[
+      "Securely erase or destroy the drive",
+      "Rename the drive",
+      "Defragment the drive",
+      "Compress the drive"
+    ],
+    "answer":0,
+    "explanation":"Sensitive data should be securely erased or the drive physically destroyed."
+  }
+]
