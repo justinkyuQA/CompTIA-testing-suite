@@ -1,102 +1,32 @@
 [
-  {
-    "question": "A technician installs RAM but the system fails POST. What should be checked first?",
-    "choices": [
-      "Whether the RAM is seated correctly",
-      "Whether Windows is activated",
-      "Whether the monitor supports HDMI",
-      "Whether the mouse driver is installed"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which storage type has no moving parts and is usually faster than a hard drive?",
-    "choices": [
-      "HDD",
-      "SSD",
-      "Optical disc",
-      "Tape drive"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "A user reports no display after replacing a GPU. What is the best first step?",
-    "choices": [
-      "Verify power cables and card seating",
-      "Reinstall the printer driver",
-      "Disable DHCP",
-      "Format the hard drive"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which connector is commonly used for wired Ethernet?",
-    "choices": [
-      "RJ-45",
-      "RJ-11",
-      "USB-C",
-      "HDMI"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which component converts AC wall power into DC power for the computer?",
-    "choices": [
-      "PSU",
-      "CPU",
-      "RAM",
-      "NIC"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "A laptop battery drains quickly even when idle. Which setting can help?",
-    "choices": [
-      "Power management profile",
-      "Static IP address",
-      "Disk partition style",
-      "Printer sharing"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which wireless standard commonly supports both 2.4 GHz and 5 GHz bands?",
-    "choices": [
-      "802.11n",
-      "Bluetooth",
-      "NFC",
-      "IR"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which device provides network connectivity to a motherboard?",
-    "choices": [
-      "NIC",
-      "GPU",
-      "TPM",
-      "CMOS battery"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the main purpose of thermal paste?",
-    "choices": [
-      "Improve heat transfer from CPU to heatsink",
-      "Increase RAM capacity",
-      "Encrypt the disk",
-      "Boost wireless range"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which display connector carries both video and audio?",
-    "choices": [
-      "HDMI",
-      "VGA",
-      "RJ-45",
-      "PS/2"
-    ],
-    "answer": 0
-  }
+  {"question":"Which connector is commonly used for Gigabit Ethernet?","choices":["RJ-45","RJ-11","USB-A","DB-9"],"answer":0},
+  {"question":"Which component stores data permanently without power?","choices":["SSD","RAM","CPU Cache","Register"],"answer":0},
+  {"question":"What type of memory is volatile?","choices":["RAM","SSD","Flash","Blu-ray"],"answer":0},
+  {"question":"Which laptop component commonly requires thermal paste?","choices":["CPU","Battery","Touchpad","Wi-Fi card"],"answer":0},
+  {"question":"Which display connector carries both digital video and audio?","choices":["HDMI","VGA","PS/2","RJ-45"],"answer":0},
+  {"question":"Which wireless standard operates in both 2.4 GHz and 5 GHz?","choices":["802.11ac","Bluetooth","NFC","Infrared"],"answer":0},
+  {"question":"Which printer technology uses toner?","choices":["Laser","Inkjet","Thermal","Dot matrix ribbon"],"answer":0},
+  {"question":"Which mobile connector has largely replaced Micro-USB?","choices":["USB-C","Mini-USB","Lightning","FireWire"],"answer":0},
+  {"question":"Which device provides battery backup during a power outage?","choices":["UPS","Surge strip","PSU","Inverter"],"answer":0},
+  {"question":"Which BIOS feature allows booting from the network?","choices":["PXE","AHCI","TPM","UEFI Shell"],"answer":0},
+  {"question":"What does POST stand for?","choices":["Power-On Self-Test","Power Output System Test","Peripheral Operation Status Test","Primary Operating System Transfer"],"answer":0},
+  {"question":"Which cable is used for SATA drives?","choices":["SATA","IDE","RJ-45","Molex only"],"answer":0},
+  {"question":"Which expansion slot is commonly used for modern graphics cards?","choices":["PCIe x16","PCI","AGP","ISA"],"answer":0},
+  {"question":"Which cloud model provides virtual machines to customers?","choices":["IaaS","SaaS","PaaS","DaaS"],"answer":0},
+  {"question":"Which cloud model provides complete software through a browser?","choices":["SaaS","IaaS","PaaS","Colocation"],"answer":0},
+  {"question":"What is the first step before opening a computer case?","choices":["Power it off and disconnect power","Install RAM","Update drivers","Run antivirus"],"answer":0},
+  {"question":"Which tool helps prevent electrostatic discharge damage?","choices":["ESD wrist strap","Loopback plug","Tone generator","Punch-down tool"],"answer":0},
+  {"question":"Which storage interface is commonly used by NVMe SSDs?","choices":["PCIe","IDE","PATA","SCSI ribbon"],"answer":0},
+  {"question":"Which device converts AC power to DC power inside a desktop?","choices":["Power supply","Motherboard","CMOS battery","VR headset"],"answer":0},
+  {"question":"Which Windows utility shows CPU, memory, and disk utilization?","choices":["Task Manager","Registry Editor","Disk Cleanup","Services"],"answer":0},
+  {"question":"Which laptop display issue is commonly caused by a failed backlight?","choices":["Dim screen","Blue screen","No Wi-Fi","No audio"],"answer":0},
+  {"question":"What is the purpose of virtualization?","choices":["Run multiple operating systems on one computer","Increase monitor resolution","Replace BIOS","Encrypt hard drives"],"answer":0},
+  {"question":"Which network device forwards traffic between different IP networks?","choices":["Router","Hub","Switch","Repeater"],"answer":0},
+  {"question":"Which address is automatically assigned when DHCP fails?","choices":["169.254.x.x","10.x.x.x","172.16.x.x","192.168.x.x"],"answer":0},
+  {"question":"Which protocol securely transfers files over SSH?","choices":["SFTP","FTP","TFTP","SMB"],"answer":0},
+  {"question":"Which port is HTTPS?","choices":["443","80","21","22"],"answer":0},
+  {"question":"Which battery maintains BIOS/UEFI settings?","choices":["CMOS battery","Laptop battery","UPS battery","NIC battery"],"answer":0},
+  {"question":"What is the maximum cable length for standard Ethernet runs?","choices":["100 meters","25 meters","250 meters","500 meters"],"answer":0},
+  {"question":"Which component is responsible for executing program instructions?","choices":["CPU","SSD","RAM","GPU"],"answer":0},
+  {"question":"Which troubleshooting step should usually come first?","choices":["Identify the problem","Replace the motherboard","Format the drive","Reinstall every application"],"answer":0}
 ]
