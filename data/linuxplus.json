@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which command lists files in a directory?",
+    "choices": [
+      "ls",
+      "cd",
+      "pwd",
+      "rm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which command prints the current working directory?",
+    "choices": [
+      "pwd",
+      "cat",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which permission value commonly represents rwxr-xr-x?",
+    "choices": [
+      "755",
+      "777",
+      "600",
+      "644"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which command changes file ownership?",
+    "choices": [
+      "chown",
+      "chmod",
+      "ps",
+      "kill"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which command searches text using patterns?",
+    "choices": [
+      "grep",
+      "mv",
+      "cp",
+      "mkdir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which directory commonly stores system configuration files?",
+    "choices": [
+      "/etc",
+      "/home",
+      "/tmp",
+      "/var/log"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which command shows running processes?",
+    "choices": [
+      "ps",
+      "lsblk",
+      "df",
+      "tar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which command displays disk space usage by filesystem?",
+    "choices": [
+      "df",
+      "free",
+      "uname",
+      "whoami"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which file contains user account entries?",
+    "choices": [
+      "/etc/passwd",
+      "/etc/hosts",
+      "/etc/fstab",
+      "/etc/resolv.conf"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which command updates package lists on Debian/Ubuntu systems?",
+    "choices": [
+      "apt update",
+      "yum install",
+      "dnf remove",
+      "pacman -R"
+    ],
+    "answer": 0
+  }
+]

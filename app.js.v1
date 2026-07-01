@@ -1,0 +1,94 @@
+let questions = [];
+let currentQuestion = 0;
+let score = 0;
+
+async function startExam(cert) {
+
+    let file = "data/aplus_core1.json";
+
+    if (cert === "Network+") {
+        file = "data/networkplus.json";
+    }
+
+    if (cert === "Security+") {
+        file = "data/securityplus.json";
+    }
+
+    if (cert === "Linux+") {
+        file = "data/linuxplus.json";
+    }
+
+    const response = await fetch(file);
+
+    questions = await response.json();
+
+    questions.sort(() => Math.random() - 0.5);
+
+    currentQuestion = 0;
+    score = 0;
+    showQuestion();
+    
+    }
+
+function showQuestion() {
+
+    const q = questions[currentQuestion];
+
+    const quiz = document.getElementById("quiz");
+
+    quiz.innerHTML = `
+        <h2>Question ${currentQuestion + 1} / ${questions.length}</h2>
+
+        <p>${q.question}</p>
+
+        <button onclick="answerQuestion(0)">
+            A. ${q.choices[0]}
+        </button>
+
+        <button onclick="answerQuestion(1)">
+            B. ${q.choices[1]}
+        </button>
+
+        <button onclick="answerQuestion(2)">
+            C. ${q.choices[2]}
+        </button>
+
+        <button onclick="answerQuestion(3)">
+            D. ${q.choices[3]}
+        </button>
+    `;}
+
+function answerQuestion(choice) {
+
+    const q = questions[currentQuestion];
+
+    if (choice === q.answer) {
+        score++;
+    }
+
+    currentQuestion++;
+
+    if (currentQuestion >= questions.length) {
+        showResults();
+    } else {
+        showQuestion();
+    }
+}
+
+function showResults() {
+
+    const percent =
+        Math.round((score / questions.length) * 100);
+
+    document.getElementById("quiz").innerHTML = `
+        <h2>Exam Complete</h2>
+
+        <p>Score: ${score}/${questions.length}</p>
+
+        <p>${percent}%</p>
+
+        <button onclick="location.reload()">
+            Main Menu
+        </button>
+    `;
+}

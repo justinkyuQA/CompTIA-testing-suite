@@ -168,10 +168,4 @@ html+=`
 appBox().innerHTML=html;
 }
 
-window.onload=async function(){
-
-    await loadAllQuestions();
-
-    renderMenu();
-
-};
+window.onload=renderMenu;

@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which command changes file permissions?",
+    "choices": [
+      "chmod",
+      "chown",
+      "grep",
+      "touch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol represents the root directory?",
+    "choices": [
+      "~",
+      "\\",
+      ".",
+      "/"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "choices": [
+      "ls",
+      "pwd",
+      "cd",
+      "cat"
+    ],
+    "answer": 1
+  }
+]

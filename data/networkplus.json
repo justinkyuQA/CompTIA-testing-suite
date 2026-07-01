@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which protocol resolves hostnames to IP addresses?",
+    "choices": [
+      "DNS",
+      "DHCP",
+      "SSH",
+      "SNMP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol automatically assigns IP configuration to clients?",
+    "choices": [
+      "DHCP",
+      "FTP",
+      "NTP",
+      "SMTP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which port is used by HTTPS by default?",
+    "choices": [
+      "443",
+      "80",
+      "22",
+      "25"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which OSI layer handles routing between networks?",
+    "choices": [
+      "Layer 3",
+      "Layer 1",
+      "Layer 5",
+      "Layer 7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which address range is APIPA?",
+    "choices": [
+      "169.254.0.0/16",
+      "192.168.0.0/16",
+      "10.0.0.0/8",
+      "172.16.0.0/12"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which device separates broadcast domains?",
+    "choices": [
+      "Router",
+      "Hub",
+      "Repeater",
+      "Patch panel"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which command commonly tests basic IP reachability?",
+    "choices": [
+      "ping",
+      "chmod",
+      "grep",
+      "format"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol is used for secure remote CLI administration?",
+    "choices": [
+      "SSH",
+      "Telnet",
+      "HTTP",
+      "TFTP"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does NAT commonly allow?",
+    "choices": [
+      "Private IPs to share a public IP",
+      "Files to be encrypted",
+      "RAM to be expanded",
+      "DNS zones to replicate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which cable category is commonly used for Gigabit Ethernet?",
+    "choices": [
+      "Cat 5e or better",
+      "Coax only",
+      "Serial null modem",
+      "RJ-11 telephone cable"
+    ],
+    "answer": 0
+  }
+]

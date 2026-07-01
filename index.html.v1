@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Certification Testing Suite</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+<h1>CERTIFICATION TESTING SUITE</h1>
+
+<p>Offline Certification Exam Practice</p>
+
+<div class="menu">
+
+<button onclick="startExam('A+')">A+ Practice Test</button>
+
+<button onclick="startExam('Network+')">Network+ Practice Test</button>
+
+<button onclick="startExam('Security+')">Security+ Practice Test</button>
+
+<button onclick="startExam('Linux+')">Linux+ Practice Test</button>
+
+</div>
+
+<hr>
+
+<div id="quiz">
+
+<h2>Ready</h2>
+
+<p>Select a certification.</p>
+
+</div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>

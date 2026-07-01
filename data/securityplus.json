@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the CIA triad stand for?",
+    "choices": [
+      "Confidentiality, Integrity, Availability",
+      "Control, Inspection, Authorization",
+      "Cryptography, Identity, Access",
+      "Containment, Isolation, Authentication"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which control reduces risk by requiring more than one proof of identity?",
+    "choices": [
+      "MFA",
+      "NAT",
+      "RAID",
+      "VLAN"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which attack attempts to overwhelm a service with traffic?",
+    "choices": [
+      "DDoS",
+      "Phishing",
+      "Tailgating",
+      "SQL injection"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which malware encrypts files and demands payment?",
+    "choices": [
+      "Ransomware",
+      "Spyware",
+      "Adware",
+      "Rootkit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which principle gives users only the access required for their job?",
+    "choices": [
+      "Least privilege",
+      "Obfuscation",
+      "Load balancing",
+      "High availability"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which security control is preventive?",
+    "choices": [
+      "Firewall rule blocking unauthorized traffic",
+      "Log review after compromise",
+      "Forensic disk imaging",
+      "Incident report"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which process verifies a user's identity?",
+    "choices": [
+      "Authentication",
+      "Authorization",
+      "Accounting",
+      "Federation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which process determines what an authenticated user may access?",
+    "choices": [
+      "Authorization",
+      "Authentication",
+      "Hashing",
+      "Tokenization"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which technique stores passwords safely by using one-way transformation?",
+    "choices": [
+      "Hashing",
+      "Encoding",
+      "Compression",
+      "Indexing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which attack tricks a user into revealing credentials?",
+    "choices": [
+      "Phishing",
+      "Port mirroring",
+      "Subnetting",
+      "RAID failure"
+    ],
+    "answer": 0
+  }
+]

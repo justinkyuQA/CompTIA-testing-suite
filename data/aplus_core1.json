@@ -1,12 +1,102 @@
 [
-{
-"question":"Which port is HTTPS?",
-"choices":["21","22","443","3389"],
-"answer":2
-},
-{
-"question":"What protocol translates names into IP addresses?",
-"choices":["FTP","DNS","SMTP","DHCP"],
-"answer":1
-}
+  {
+    "question": "A technician installs RAM but the system fails POST. What should be checked first?",
+    "choices": [
+      "Whether the RAM is seated correctly",
+      "Whether Windows is activated",
+      "Whether the monitor supports HDMI",
+      "Whether the mouse driver is installed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which storage type has no moving parts and is usually faster than a hard drive?",
+    "choices": [
+      "HDD",
+      "SSD",
+      "Optical disc",
+      "Tape drive"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A user reports no display after replacing a GPU. What is the best first step?",
+    "choices": [
+      "Verify power cables and card seating",
+      "Reinstall the printer driver",
+      "Disable DHCP",
+      "Format the hard drive"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which connector is commonly used for wired Ethernet?",
+    "choices": [
+      "RJ-45",
+      "RJ-11",
+      "USB-C",
+      "HDMI"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which component converts AC wall power into DC power for the computer?",
+    "choices": [
+      "PSU",
+      "CPU",
+      "RAM",
+      "NIC"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A laptop battery drains quickly even when idle. Which setting can help?",
+    "choices": [
+      "Power management profile",
+      "Static IP address",
+      "Disk partition style",
+      "Printer sharing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which wireless standard commonly supports both 2.4 GHz and 5 GHz bands?",
+    "choices": [
+      "802.11n",
+      "Bluetooth",
+      "NFC",
+      "IR"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which device provides network connectivity to a motherboard?",
+    "choices": [
+      "NIC",
+      "GPU",
+      "TPM",
+      "CMOS battery"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the main purpose of thermal paste?",
+    "choices": [
+      "Improve heat transfer from CPU to heatsink",
+      "Increase RAM capacity",
+      "Encrypt the disk",
+      "Boost wireless range"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which display connector carries both video and audio?",
+    "choices": [
+      "HDMI",
+      "VGA",
+      "RJ-45",
+      "PS/2"
+    ],
+    "answer": 0
+  }
 ]
